@@ -1,9 +1,10 @@
 # Darkened_Light_Android
 Alpha build of Darkened Light, game made by BjurkDev
 
+PLEASE READ THE ALPHA BUILD STATE AT THE BOTTOM BEFORE PLAYING!!!
 
+(android only)
 How to install?
-
 1. Click the blue button "View Code"
 2. Click on Darkened_Light_Test.apk
 3. Click on the blue button "View raw" button.
