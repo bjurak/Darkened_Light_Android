@@ -14,6 +14,8 @@ Alpha Build State:
 - No Game saving.
 - Only 15 Levels.
 - No sound.
-- Only level 1 is selectable from the menu.
 - Hints don't work.
 - Reverse Step doesn't work.
+- Please call in the bugs at bjurkdev@gmail.com
+
+Thank you for playing and have a great day!
