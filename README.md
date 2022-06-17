@@ -7,7 +7,7 @@ PLEASE READ THE ALPHA BUILD STATE AT THE BOTTOM BEFORE PLAYING!!!
 How to install?
 1. Click the blue button "View Code"
 2. Click on Darkened_Light_Test.apk
-3. Click on the blue button "View raw" button.
+3. Click on the blue "View raw" button.
 
 
 Alpha Build State:
